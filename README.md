@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!-- Header Section -->
 <h1 align="center">Hi, I'm Aditi ! 👋</h1>
 <p align="center">Passionate Full Stack Developer | Data Enthusiast | Tech Explorer </p>
