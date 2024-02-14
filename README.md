@@ -32,6 +32,8 @@
 - Engineered a financial portfolio optimization tool using PSO, creating a balanced portfolio with maximized returns and minimized volatility.
 - Visualized optimal asset allocation strategies.
 
+
+
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
