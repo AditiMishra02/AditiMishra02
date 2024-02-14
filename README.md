@@ -41,9 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&count_private=true&hide=contribs,prs" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact" alt="Top Languages">
-</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=radical">
 </p>
