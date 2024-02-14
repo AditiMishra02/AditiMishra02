@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact" alt="Top Languages">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=radical">
 </p>
 
 <!-- Achievements Section -->
