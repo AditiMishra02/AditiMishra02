@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=radical" alt="Aditi's Top Languages" width="600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=radical" alt="Aditi's Top Languages" width="400">
 </p>
 
 <!-- Achievements Section -->
