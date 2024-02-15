@@ -45,13 +45,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=radical" alt="Aditi's Top Languages" width="400">
 </p>
 
-<!-- Achievements Section -->
-## 🏆 Achievements
-
-- Google Cloud Digital Leader Training 🌐
-- IBM Data Science Professional Certified 🎓
-- Certified in Data Visualization: Empowering Business with Effective Insights 📈  Tata Insights and Quants Certificate 🏆
-- DevOps Essentials Certification (AWS, Linux, Docker) 🚀
 
 <!-- Connect Section -->
 ## 🌐 Connect with Me
