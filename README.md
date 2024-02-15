@@ -46,6 +46,9 @@
 </p>
 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
+
 <!-- Connect Section -->
 ## 🌐 Connect with Me
 
