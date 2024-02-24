@@ -56,10 +56,10 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/Aditi_dev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank">
+    
   </a>
   <a href="https://leetcode.com/Aditi_mishra_02/" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode">
+   
   </a>
 </p>
 
