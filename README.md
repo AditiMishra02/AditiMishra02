@@ -54,7 +54,7 @@
 
 🚀 Coding Profiles
 
-<p align="center">
+<p align="left">
   <a href="https://www.hackerrank.com/profile/Aditi_dev" target="_blank">
     <img src="url_to_hackerrank_logo" alt="HackerRank" height="100">
   </a>
@@ -63,8 +63,6 @@
 " alt="LeetCode" height="100">
   </a>
 </p>
-
-
 
 <!-- Feel free to explore my coding journey! -->
 
