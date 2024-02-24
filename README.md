@@ -51,6 +51,22 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername)
 
+
+# My Coding Profiles
+
+Below are my profiles on coding platforms:
+
+## HackerRank
+
+[Profile Name](https://www.hackerrank.com/profile/Aditi_dev)
+
+## LeetCode
+
+[Profile Name](https://leetcode.com/Aditi_mishra_02/)
+
+Feel free to check out my solved problems and progress on these platforms!
+
+
 <!-- Connect Section -->
 ## 🌐 Connect with Me
 
