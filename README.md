@@ -56,7 +56,7 @@
 
 <p align="left">
   <a href="https://www.hackerrank.com/profile/Aditi_dev" target="_blank">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.doit.com%2Fwp-content%2Fuploads%2F2023%2F06%2F1_jbcsrlrvfbdnbecw_ljf4g.png&tbnid=gkguS_cffJ0mgM&vet=12ahUKEwjG0OGf_sOEAxWSQGwGHeZ-DfQQMygHegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.doit.com%2Fclients%2Fhackerrank%2F&docid=MBjh9jpmNL3eNM&w=600&h=315&q=hackerrank&ved=2ahUKEwjG0OGf_sOEAxWSQGwGHeZ-DfQQMygHegQIARB_" alt="HackerRank" height="100">
+    <img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fgradsingames.com%2Fwp-content%2Fuploads%2F2016%2F05%2F856771_668224053197841_1943699009_o.png&tbnid=HT9c_na0KeEflM&vet=12ahUKEwiRvaji_sOEAxVahmMGHWCMC4EQMygFegQIARBe..i&imgrefurl=https%3A%2F%2Fgithub.com%2FsarangiWijemanna%2FHacker-Rank-Solutions&docid=kvklALLlLi0qMM&w=2761&h=692&q=hackerrank%20logo&ved=2ahUKEwiRvaji_sOEAxVahmMGHWCMC4EQMygFegQIARBe" alt="HackerRank" height="100">
   </a>
   <a href="https://leetcode.com/Aditi_mishra_02/" target="_blank">
     <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" height="100">
