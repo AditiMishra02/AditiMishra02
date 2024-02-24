@@ -56,7 +56,8 @@
 
 <p align="left">
   <a href="https://www.hackerrank.com/profile/Aditi_dev" target="_blank">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F3917dccc8fa9f34aeabba2f431701991cce322288abc3525772a63a03bc27680%2F68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e6439476354364f7852466444776a705070384d38384535716275354274376950395a566d4343705126757371703d434155&tbnid=1Vv-Vyoy-237UM&vet=12ahUKEwiRvaji_sOEAxVahmMGHWCMC4EQMygWegUIARCDAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fjaimiles23%2FHackerRank_Solutions&docid=FaIs9nWhV9oaLM&w=318&h=159&q=hackerrank%20logo&ved=2ahUKEwiRvaji_sOEAxVahmMGHWCMC4EQMygWegUIARCDAQ"alt="HackerRank" height="100">
+    <img src="![image](https://github.com/AditiMishra02/AditiMishra02/assets/83416767/a381d892-eed7-42d4-b7a7-a85405ba25be)
+"alt="HackerRank" height="100">
   </a>
   <a href="https://leetcode.com/Aditi_mishra_02/" target="_blank">
     <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" height="100">
