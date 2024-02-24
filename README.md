@@ -59,8 +59,7 @@
     <img src="url_to_hackerrank_logo" alt="HackerRank" height="100">
   </a>
   <a href="https://leetcode.com/Aditi_mishra_02/" target="_blank">
-    <img src="![image](https://github.com/AditiMishra02/AditiMishra02/assets/83416767/9b832e75-f1ea-41a6-92e0-d980f9543f35)
-" alt="LeetCode" height="100">
+    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" height="100">
   </a>
 </p>
 
