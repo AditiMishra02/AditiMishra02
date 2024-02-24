@@ -55,7 +55,7 @@
 🚀 Coding Profiles
 
 <p align="center">
-  <a href="link_to_hackerrank_profile" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Aditi_dev" target="_blank">
     <img src="url_to_hackerrank_logo" alt="HackerRank" height="100">
   </a>
   <a href="https://leetcode.com/Aditi_mishra_02/" target="_blank">
