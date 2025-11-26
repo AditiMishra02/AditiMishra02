@@ -1,6 +1,8 @@
 <div align="center">
+<div align="center">
+  <img src="https://i.chzbgr.com/full/7992645632/h78126205/sup-dawgi-mean-cat" width="400" />
+</div>
 
-<img src="https://cataas.com/cat/gif?width=250" width="180" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Cat+Powered+Coder+%F0%9F%90%BE" />
 
@@ -42,7 +44,7 @@ This helped me to learn **DevOps, reliability, and scalable systems**.
 # 🐱 Meme Break: My Brain at Work  
 <div align="center">
 
-<img src="https://cataas.com/cat/crazy/gif?width=300" width="260" />
+<img src="https://media.tenor.com/KGMKkNcyBXEAAAAM/cat-face-in-laptop.gif" width="300" />
 
 <i>"multi-tasking between backend, devops, cloud & eating snacks"</i>
 
@@ -63,14 +65,6 @@ This helped me to learn **DevOps, reliability, and scalable systems**.
 ### ☁ **Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash&theme=light" /><br/><br/>
 
-### 🖥️ **Virtualization & Tools**
-- Citrix Virtual Apps  
-- Citrix Workspace  
-- **XenServer**  
-- ServiceNow  
-- Postman  
-- VS Code  
-- Figma  
 
 </div>
 
@@ -79,7 +73,7 @@ This helped me to learn **DevOps, reliability, and scalable systems**.
 # 🐱 Meme Break: When Code Doesn’t Compile  
 <div align="center">
 
-<img src="https://cataas.com/cat/angry/gif?width=300" width="250" />
+<img src="https://i.imgflip.com/65qngn.gif" width="300" />
 
 <i>"just work... please... i beg"</i>
 
@@ -95,7 +89,7 @@ This helped me to learn **DevOps, reliability, and scalable systems**.
 ## 🐾 **CLAMS — Cloud Log Aggregation & Monitoring System**
 
 <div align="center">
-<img src="https://cataas.com/cat/playing/gif?width=250" width="200" />
+<img src="https://i.pinimg.com/564x/3e/96/9b/3e969be6205083af2437c1a16fb4ed2b.jpg" width="300" />
 </div>
 
 A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
@@ -114,7 +108,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 # 😺 Meme Break: CI/CD Pipeline Waiting Stage  
 <div align="center">
 
-<img src="https://cataas.com/cat/sleepy/gif?width=300" width="230" />
+<img src="https://media.tenor.com/510fdFbijaYAAAAM/cat-stare-cat.gif" width="300" />
 
 <i>"me staring at the workflow hoping it turns green"</i>
 
