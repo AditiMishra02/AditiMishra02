@@ -1,34 +1,50 @@
-<!-- TITLE -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_wave.gif" width="180">
+<img src="https://cataas.com/cat/gif?width=250" width="180" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;ML+%26+Data+Explorer;Certified+Cat+Powered+Coder+%F0%9F%90%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Cat+Powered+Coder+%F0%9F%90%BE" />
 
 </div>
 
 ---
 
 # 👩‍💻 About Me  
-Hi! I’m **Aditi** — a developer powered by ☕ coffee, 🐱 cats, and 🌩 cloud computing.
 
-I love building things that are:
-- ✨ Clean  
-- ☁ Cloud-native  
-- 🐱 Curious  
-- 🚀 Scalable  
-- 🧠 ML-powered  
+Hi! I’m **Aditi**, a developer powered by ☕ coffee, ☁ cloud computing, and 🐱 cats.  
+I build real-world applications that blend:
 
-And yes, I debug like a **confused cat knocking things off a table**.
+✨ Clean backend engineering  
+✨ Cloud-native deployments  
+✨ DevOps automation  
+✨ Data-driven thinking  
+✨ Cute cat aesthetics 🐾  
 
 ---
 
-# 🐱💻 Cat Mood While Debugging  
+# 🏢 Work Experience  
+
+## 💼 **HCLTech — Graduate Engineer Trainee (GET)**  
+
+Worked on **Deutsche Bank’s SDOD Platform**:
+
+- 📦 App Deployment & Monitoring  
+- 🖥 Worked with **Citrix Virtual Apps**, Citrix environments  
+- 🖳 Worked on **XenServer virtualization**  
+- ⚙️ Infrastructure Support & Production Ops  
+- 🐧 Linux + Shell troubleshooting  
+- ☁ Exposure to cloud, CI/CD, and enterprise systems  
+- 🗂 Log analysis, issue resolution, ticketing  
+
+This helped me to learn **DevOps, reliability, and scalable systems**.
+
+---
+
+# 🐱 Meme Break: My Brain at Work  
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_debug.gif" width="260">
+<img src="https://cataas.com/cat/crazy/gif?width=300" width="260" />
 
-<i>"why error?? no touch anything???"</i>
+<i>"multi-tasking between backend, devops, cloud & eating snacks"</i>
 
 </div>
 
@@ -38,48 +54,69 @@ And yes, I debug like a **confused cat knocking things off a table**.
 
 <div align="center">
 
+### 📝 **Languages**
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,sqlite&theme=light" /><br/><br/>
 
+### 🧩 **Frameworks**
 <img src="https://skillicons.dev/icons?i=spring,react,django,flask&theme=light" /><br/><br/>
 
+### ☁ **Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash&theme=light" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postman,vscode,figma&theme=light" />
+### 🖥️ **Virtualization & Tools**
+- Citrix Virtual Apps  
+- Citrix Workspace  
+- **XenServer**  
+- ServiceNow  
+- Postman  
+- VS Code  
+- Figma  
+
+</div>
+
+---
+
+# 🐱 Meme Break: When Code Doesn’t Compile  
+<div align="center">
+
+<img src="https://cataas.com/cat/angry/gif?width=300" width="250" />
+
+<i>"just work... please... i beg"</i>
 
 </div>
 
 ---
 
 # 🐾 Featured Projects  
-*(Cutest project section ever — all GIFs safe)*  
+*(Super cute + professional)*  
 
 ---
 
 ## 🐾 **CLAMS — Cloud Log Aggregation & Monitoring System**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_cloud.gif" width="180">
+<img src="https://cataas.com/cat/playing/gif?width=250" width="200" />
 </div>
 
-A production-ready **DevOps + Backend + Cloud** project.
+A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 
-✨ **Features**  
-- Flask API log ingestion  
+✨ **Features**
+- Flask log ingestion API  
 - AWS S3 storage  
 - Dockerized  
-- GitHub Actions CI/CD → GHCR  
-- Cloud architecture ready  
+- CI/CD (GitHub Actions → GHCR)  
+- Cloud-architecture ready  
 
 🔗 Repo → https://github.com/AditiMishra02/clams-project
 
 ---
 
-# 😺 CI/CD Pipeline Mood  
+# 😺 Meme Break: CI/CD Pipeline Waiting Stage  
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_loading.gif" width="200">
+<img src="https://cataas.com/cat/sleepy/gif?width=300" width="230" />
 
-<i>"pls pass... pls pass... pls— YESS  ✔"</i>
+<i>"me staring at the workflow hoping it turns green"</i>
 
 </div>
 
@@ -88,48 +125,60 @@ A production-ready **DevOps + Backend + Cloud** project.
 ## 🐈 **Iris Dataset — Exploratory Data Analysis**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_data.gif" width="200">
+<img src="https://cataas.com/cat/kitten/gif?width=250" width="200" />
 </div>
 
-✨ Heatmaps, pairplots, insights  
-✨ Pretty visual storytelling  
-✨ Clean preprocessing  
+- Pairplots  
+- Heatmaps  
+- Feature correlations  
+- Clean & pretty analysis  
 
 ---
 
 ## 😺 **Portfolio Optimization using PSO**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_math.gif" width="200">
+<img src="https://cataas.com/cat/curious/gif?width=250" width="200" />
 </div>
 
-✨ Portfolio weights  
-✨ Risk-return patterns  
-✨ PSO optimization  
+📊 Investment weight optimization  
+📊 PSO algorithm  
+📊 Visualized results  
 
 ---
 
-## 🐱‍🏍 **Malicious URL Detection using ML**
+## 🐱‍💻 **Malicious URL Detection using ML**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_hacker.gif" width="200">
+<img src="https://cataas.com/cat/jump/gif?width=250" width="200" />
 </div>
 
-✨ ML models  
-✨ URL feature extraction  
-✨ Flask API + Docker + AWS  
+- URL-based feature engineering  
+- ML models: RF, SVM, LR  
+- Flask API + Docker deployment  
 
 ---
 
 ## 🐈 **Task Management REST API**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_typing.gif" width="200">
+<img src="https://cataas.com/cat/keyboard/gif?width=250" width="200" />
 </div>
 
-✨ CRUD  
-✨ JWT Auth  
-✨ MySQL + Docker + AWS  
+- CRUD  
+- JWT Auth  
+- MySQL + Docker + AWS  
+
+---
+
+# 😺 Meme Break: When the API Returns 200 OK  
+<div align="center">
+
+<img src="https://cataas.com/cat/happy/gif?width=300" width="230" />
+
+<i>"YES. Correct response, human."</i>
+
+</div>
 
 ---
 
@@ -138,19 +187,7 @@ A production-ready **DevOps + Backend + Cloud** project.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=rose_pine&hide_border=true" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=rose_pine&hide_border=true" />
-
-</div>
-
----
-
-# 😺 When My Code Finally Works  
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_yes.gif" width="230">
-
-<i>"finally... success... rejoice hooman"</i>
 
 </div>
 
@@ -160,11 +197,11 @@ A production-ready **DevOps + Backend + Cloud** project.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aditi-mishra">
+<a href="https://www.linkedin.com/in/aditi-mishra-b362b3222">
 <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:aditimishra589@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
@@ -174,12 +211,17 @@ A production-ready **DevOps + Backend + Cloud** project.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_bye.gif" width="200">
+<img src="https://cataas.com/cat/gif?width=200" width="200" />
 
 ### ✨ Thanks for visiting!  
-### 🐾 May your bugs be tiny & your commits be clean.
+### 🐾 May your bugs be tiny & your deployments be smooth.
 
 </div>
+
+
+
+
+
 
 
 
