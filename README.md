@@ -1,7 +1,9 @@
-<!-- HERO SECTION -->
+<!-- TITLE ANIMATION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C0FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi+Mishra!+👋;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Machine+Learning+Explorer;Always+Learning.+Always+Building.+🚀" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;ML+%26+Data+Explorer" />
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqg/giphy.gif" width="200" />
 
 </div>
 
@@ -9,22 +11,30 @@
 
 # 👩‍💻 About Me  
 
-<div align="center">
+Hi! I’m **Aditi** — a developer with a love for clean code, cloud deployments, and… cats. 🐱✨  
+I build real-world apps, automate everything I can, and explore ML with curiosity (and snacks).
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AFFD5&center=true&vCenter=true&width=700&lines=Passionate+Engineer+%7C+DevOps+Mindset;Full+Stack+Developer+%7C+Cloud+Explorer;Data+Enthusiast+%7C+Problem+Solver" />
-
-</div>
-
-I am a **Full Stack Developer**, **Cloud & DevOps Enthusiast**, and **Data Explorer**, passionate about building clean, scalable, and real-world applications.
-
-I enjoy:
+### 🐾 I enjoy:
 - 🚀 Building production-ready backend systems  
 - ☁ Deploying cloud-native applications  
-- 🧠 Exploring ML & data-driven insights  
-- 🔧 Designing modern DevOps pipelines  
-- 📚 Learning new technologies every day  
+- 🧠 Exploring data & machine learning  
+- 🔧 Designing modern CI/CD pipelines  
+- 🐈 Acting like a confused cat while debugging  
+- 📚 Learning new tech every day  
 
-I work across **backend, frontend, cloud, data, and deployment** — shaping myself into a strong **Cloud + DevOps + Backend Engineer**.
+I work across backend → frontend → cloud → data → DevOps  
+because I love being a **full-spectrum engineer**.
+
+---
+
+# 🐱💻 *Cat Meme Break: Aditi While Debugging*
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
+
+<i>"Me debugging at 3 AM because the bug hurt my feelings."</i>
+
+</div>
 
 ---
 
@@ -32,124 +42,131 @@ I work across **backend, frontend, cloud, data, and deployment** — shaping mys
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,sqlite,mysql&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,sqlite&theme=light" /><br/><br/>
 
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=spring,react,django,flask&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,react,django,flask&theme=light" /><br/><br/>
 
-<!-- DevOps & Cloud -->
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,gitlab,bash&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash&theme=light" /><br/><br/>
 
-<!-- Other -->
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode&theme=light" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects  
-(✨ With animations + GIF previews)
+# 🐾 Featured Projects  
+*(✨ Aesthetic + Cat-themed animations)*
 
 ---
 
-## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="40"> **CLAMS — Cloud Log Aggregation & Monitoring System**
+## 🐾 **CLAMS — Cloud Log Aggregation & Monitoring System**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AditiMishra02&repo=clams-project&theme=tokyonight&hide_border=true" />
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" />
 </div>
 
-A production-grade **DevOps + Backend + Cloud** system to ingest logs and store them securely in AWS S3.
+A production-grade **DevOps + Backend + Cloud** project that securely ingests logs into AWS S3.
 
-✨ Features  
-- 🔥 Flask-based log ingestion API  
-- ☁ AWS S3 storage with timestamps  
-- 🐳 Dockerized backend  
+✨ **Features**
+- 🔥 Flask API for log ingestion  
+- ☁ S3 bucket storage with timestamps  
+- 🐳 Dockerized architecture  
 - 🔄 GitHub Actions CI/CD → GHCR  
-- 📦 Clean cloud architecture  
+- 📦 Clean cloud deployment workflow  
 
 🔗 Repo: https://github.com/AditiMishra02/clams-project
 
 ---
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40"> **Iris Dataset — Exploratory Data Analysis**
-
+# 😺 *Cat Mood While CI/CD Is Running*
 <div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="420" />
+
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" />
+
+<i>"Please pass… please pass… PLEASE—"</i>
+
 </div>
 
-A detailed EDA of the classic Iris dataset with rich visualization & insights.
+---
 
-🌸 Highlights  
-- Pairplots, heatmaps, distribution graphs  
+## 🐈 **Iris Dataset — Exploratory Data Analysis**
+
+<div align="center">
+<img src="https://media.giphy.com/media/fxH6gC8xNhOqfKx8FY/giphy.gif" width="200" />
+</div>
+
+A detailed EDA with clean graphs, analysis, and visual storytelling.
+
+🌸 **Highlights**
+- Pairplots, heatmaps, distributions  
 - Feature correlations  
-- Clean preprocessing and pattern discovery  
+- Clean, simple preprocessing  
 
 ---
 
-## <img src="https://media.giphy.com/media/Yr00VYnnYV1pg/giphy.gif" width="40"> **Portfolio Optimization using PSO**
+## 😺 **Portfolio Optimization Using PSO**
 
 <div align="center">
-<img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/xULW8CrpFlSlbMwFL2/giphy.gif" width="200" />
 </div>
 
-A financial optimization tool that allocates assets using **Particle Swarm Optimization**.
+A financial optimization tool using **Particle Swarm Optimization**.
 
-📊 Features  
-- Optimal risk–return balance  
+📊 **Features**
+- Risk-return balancing  
 - Weight visualization  
-- PSO-driven algorithmic optimization  
+- Algorithmic optimization  
 
 ---
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="40"> **Malicious URL Detection using ML**
+## 🐾 **Malicious URL Detection using ML**
 
 <div align="center">
-<img src="https://media.giphy.com/media/Yflh2Q1jv1Xq8/giphy.gif" width="320" />
+<img src="https://media.giphy.com/media/l3vR1G8geDqD3d2XW/giphy.gif" width="200" />
 </div>
 
-A security-focused ML model that predicts malicious/phishing URLs.
+A security-focused ML model that identifies phishing & malicious URLs.
 
-🧠 Features  
+🧠 **Features**
 - Random Forest, SVM, Logistic Regression  
-- URL-based feature extraction  
-- Flask API + Docker + AWS deployment  
+- URL feature engineering  
+- Flask API + Docker + AWS  
 
 ---
 
-## <img src="https://media.giphy.com/media/l3q2Sais9P2dEM9Ic/giphy.gif" width="40"> **Task Management REST API**
+## 🐱‍💻 **Task Management REST API**
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="350" />
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
 </div>
 
-A clean backend API with JWT auth and MySQL database.
+A clean backend API with JWT Auth + MySQL.
 
-🔧 Features  
-- Create/Update/Delete tasks  
-- Authentication system  
-- Docker + AWS deployment ready  
+🔧 **Features**
+- CRUD operations  
+- Authentication  
+- Docker + AWS deployment  
 
 ---
 
-# 📊 GitHub Stats (Animated)
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiMishra02&theme=react-dark&hide_border=true&area=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=rose_pine&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=rose_pine&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 Profile Views  
+# 🐾 *Cat Looks When My Code Finally Works*
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AditiMishra02&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" />
+
+<i>"Yes. Correct response, human."</i>
+
 </div>
 
 ---
@@ -158,12 +175,12 @@ A clean backend API with JWT auth and MySQL database.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aditi-mishra" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/aditi-mishra">
+<img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
@@ -171,11 +188,18 @@ A clean backend API with JWT auth and MySQL database.
 ---
 
 <div align="center">
-  
-✨ *Thanks for visiting my profile!*  
-✨ *Let’s build something amazing together.*  
+
+<img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="230" />
+
+### ✨ Thanks for visiting!  
+### 🐾 Let’s build something amazing together.
 
 </div>
+
+
+
+
+
 
 
 
