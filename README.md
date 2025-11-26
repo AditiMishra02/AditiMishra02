@@ -1,44 +1,40 @@
-<!-- TITLE ANIMATION -->
+<!-- TITLE -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;ML+%26+Data+Explorer" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_wave.gif" width="180">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqg/giphy.gif" width="200" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;ML+%26+Data+Explorer;Certified+Cat+Powered+Coder+%F0%9F%90%BE" />
 
 </div>
 
 ---
 
 # 👩‍💻 About Me  
+Hi! I’m **Aditi** — a developer powered by ☕ coffee, 🐱 cats, and 🌩 cloud computing.
 
-Hi! I’m **Aditi** — a developer with a love for clean code, cloud deployments, and… cats. 🐱✨  
-I build real-world apps, automate everything I can, and explore ML with curiosity (and snacks).
+I love building things that are:
+- ✨ Clean  
+- ☁ Cloud-native  
+- 🐱 Curious  
+- 🚀 Scalable  
+- 🧠 ML-powered  
 
-### 🐾 I enjoy:
-- 🚀 Building production-ready backend systems  
-- ☁ Deploying cloud-native applications  
-- 🧠 Exploring data & machine learning  
-- 🔧 Designing modern CI/CD pipelines  
-- 🐈 Acting like a confused cat while debugging  
-- 📚 Learning new tech every day  
-
-I work across backend → frontend → cloud → data → DevOps  
-because I love being a **full-spectrum engineer**.
+And yes, I debug like a **confused cat knocking things off a table**.
 
 ---
 
-# 🐱💻 *Cat Meme Break: Aditi While Debugging*
+# 🐱💻 Cat Mood While Debugging  
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_debug.gif" width="260">
 
-<i>"Me debugging at 3 AM because the bug hurt my feelings."</i>
+<i>"why error?? no touch anything???"</i>
 
 </div>
 
 ---
 
-# ⚡ Tech Stack & Tools
+# ⚡ Tech Stack (Cat Approved)
 
 <div align="center">
 
@@ -48,42 +44,42 @@ because I love being a **full-spectrum engineer**.
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash&theme=light" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma&theme=light" />
 
 </div>
 
 ---
 
 # 🐾 Featured Projects  
-*(✨ Aesthetic + Cat-themed animations)*
+*(Cutest project section ever — all GIFs safe)*  
 
 ---
 
 ## 🐾 **CLAMS — Cloud Log Aggregation & Monitoring System**
 
 <div align="center">
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_cloud.gif" width="180">
 </div>
 
-A production-grade **DevOps + Backend + Cloud** project that securely ingests logs into AWS S3.
+A production-ready **DevOps + Backend + Cloud** project.
 
-✨ **Features**
-- 🔥 Flask API for log ingestion  
-- ☁ S3 bucket storage with timestamps  
-- 🐳 Dockerized architecture  
-- 🔄 GitHub Actions CI/CD → GHCR  
-- 📦 Clean cloud deployment workflow  
+✨ **Features**  
+- Flask API log ingestion  
+- AWS S3 storage  
+- Dockerized  
+- GitHub Actions CI/CD → GHCR  
+- Cloud architecture ready  
 
-🔗 Repo: https://github.com/AditiMishra02/clams-project
+🔗 Repo → https://github.com/AditiMishra02/clams-project
 
 ---
 
-# 😺 *Cat Mood While CI/CD Is Running*
+# 😺 CI/CD Pipeline Mood  
 <div align="center">
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="220" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_loading.gif" width="200">
 
-<i>"Please pass… please pass… PLEASE—"</i>
+<i>"pls pass... pls pass... pls— YESS  ✔"</i>
 
 </div>
 
@@ -92,60 +88,48 @@ A production-grade **DevOps + Backend + Cloud** project that securely ingests lo
 ## 🐈 **Iris Dataset — Exploratory Data Analysis**
 
 <div align="center">
-<img src="https://media.giphy.com/media/fxH6gC8xNhOqfKx8FY/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_data.gif" width="200">
 </div>
 
-A detailed EDA with clean graphs, analysis, and visual storytelling.
-
-🌸 **Highlights**
-- Pairplots, heatmaps, distributions  
-- Feature correlations  
-- Clean, simple preprocessing  
+✨ Heatmaps, pairplots, insights  
+✨ Pretty visual storytelling  
+✨ Clean preprocessing  
 
 ---
 
-## 😺 **Portfolio Optimization Using PSO**
+## 😺 **Portfolio Optimization using PSO**
 
 <div align="center">
-<img src="https://media.giphy.com/media/xULW8CrpFlSlbMwFL2/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_math.gif" width="200">
 </div>
 
-A financial optimization tool using **Particle Swarm Optimization**.
-
-📊 **Features**
-- Risk-return balancing  
-- Weight visualization  
-- Algorithmic optimization  
+✨ Portfolio weights  
+✨ Risk-return patterns  
+✨ PSO optimization  
 
 ---
 
-## 🐾 **Malicious URL Detection using ML**
+## 🐱‍🏍 **Malicious URL Detection using ML**
 
 <div align="center">
-<img src="https://media.giphy.com/media/l3vR1G8geDqD3d2XW/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_hacker.gif" width="200">
 </div>
 
-A security-focused ML model that identifies phishing & malicious URLs.
-
-🧠 **Features**
-- Random Forest, SVM, Logistic Regression  
-- URL feature engineering  
-- Flask API + Docker + AWS  
+✨ ML models  
+✨ URL feature extraction  
+✨ Flask API + Docker + AWS  
 
 ---
 
-## 🐱‍💻 **Task Management REST API**
+## 🐈 **Task Management REST API**
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_typing.gif" width="200">
 </div>
 
-A clean backend API with JWT Auth + MySQL.
-
-🔧 **Features**
-- CRUD operations  
-- Authentication  
-- Docker + AWS deployment  
+✨ CRUD  
+✨ JWT Auth  
+✨ MySQL + Docker + AWS  
 
 ---
 
@@ -154,18 +138,19 @@ A clean backend API with JWT Auth + MySQL.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=rose_pine&hide_border=true" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=rose_pine&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐾 *Cat Looks When My Code Finally Works*
+# 😺 When My Code Finally Works  
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_yes.gif" width="230">
 
-<i>"Yes. Correct response, human."</i>
+<i>"finally... success... rejoice hooman"</i>
 
 </div>
 
@@ -189,12 +174,22 @@ A clean backend API with JWT Auth + MySQL.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="230" />
+<img src="https://raw.githubusercontent.com/AditiMishra02/AditiMishra02/main/assets/cat_bye.gif" width="200">
 
 ### ✨ Thanks for visiting!  
-### 🐾 Let’s build something amazing together.
+### 🐾 May your bugs be tiny & your commits be clean.
 
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
