@@ -119,7 +119,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 ## 🐈 **Iris Dataset — Exploratory Data Analysis**
 
 <div align="center">
-<img src="https://cataas.com/cat/kitten/gif?width=250" width="200" />
+<img src="https://miro.medium.com/1*SaOSGiX-UWg2eX27JN7X9w.jpeg" width="300" />
 </div>
 
 - Pairplots  
@@ -132,7 +132,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 ## 😺 **Portfolio Optimization using PSO**
 
 <div align="center">
-<img src="https://cataas.com/cat/curious/gif?width=250" width="200" />
+<img src="https://media.tenor.com/iS3CEysCVRsAAAAM/finance-advisor.gif" width="300" />
 </div>
 
 📊 Investment weight optimization  
@@ -144,7 +144,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 ## 🐱‍💻 **Malicious URL Detection using ML**
 
 <div align="center">
-<img src="https://cataas.com/cat/jump/gif?width=250" width="200" />
+<img src="https://media.tenor.com/a9ZPf8llhpIAAAAM/hecker-floppa.gif" width="300" />
 </div>
 
 - URL-based feature engineering  
@@ -156,7 +156,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 ## 🐈 **Task Management REST API**
 
 <div align="center">
-<img src="https://cataas.com/cat/keyboard/gif?width=250" width="200" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8pVAW1FOuwWfm6rIwgEWyTkWxLxyRc3i8A-Odo_wWvKtfsR2QDOIKG-KzYQGtcQrcfY&usqp=CAU" width="300" />
 </div>
 
 - CRUD  
@@ -168,7 +168,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 # 😺 Meme Break: When the API Returns 200 OK  
 <div align="center">
 
-<img src="https://cataas.com/cat/happy/gif?width=300" width="230" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3kyN3ljZG9wN2pnNG5sNDV4Y3BnM2VjNTJwczQwajg5cTEyYjh5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/200.gif" width="300" />
 
 <i>"YES. Correct response, human."</i>
 
@@ -205,7 +205,7 @@ A production-grade **DevOps + Backend + Cloud** log ingestion pipeline.
 
 <div align="center">
 
-<img src="https://cataas.com/cat/gif?width=200" width="200" />
+<img src="https://i.pinimg.com/originals/47/7f/04/477f048b73fe91ffd4865d0ff5b0dc0b.jpg" width="300" />
 
 ### ✨ Thanks for visiting!  
 ### 🐾 May your bugs be tiny & your deployments be smooth.
