@@ -4,7 +4,7 @@
 </div>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Cat+Powered+Coder+%F0%9F%90%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=FF9BCD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aditi!+%F0%9F%90%B6;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Cat+Powered+Coder+%F0%9F%90%BE" width="200" />
 
 </div>
 
