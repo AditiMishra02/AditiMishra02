@@ -1,300 +1,366 @@
+
+# `> initializing_profile.exe`
+
 <div align="center">
 
-# ╔══════════════════════════════════════╗
-#        ✦ ADITI MISHRA.EXE ✦
-# ╚══════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120018,50:5c0a73,100:ff1493&height=180&section=header&text=ADITI%20MISHRA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-### `こんにちは、I'm Aditi`
+### `// Cloud & DevOps Engineer • Cybersecurity • AI/ML • Research`
 
-**Cloud & DevOps • Cybersecurity • AI/ML • Python**
+`Cloud & DevOps` • `Cybersecurity` • `Python` • `AWS` • `Docker` • `CI/CD`
 
-<img src="./assets/anime-pfp.jpg" width="190" alt="Anime profile picture">
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-AditiMishra02-ff4fd8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AditiMishra02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Mishra-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-mishra-b362b3222/)
+> `$ while(alive) { code(); learn(); build(); }`
 
 </div>
 
 ---
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                    SYSTEM PROFILE                           │
-├──────────────────────────────────────────────────────────────┤
-│ USER        : ADITI MISHRA                                  │
-│ CLASS       : CLOUD / DEVOPS / SECURITY                     │
-│ EDUCATION   : M.TECH — IIT PATNA                           │
-│ SPECIALITY  : PYTHON • CLOUD • ML • CYBERSECURITY           │
-│ STATUS      : BUILDING...                                   │
-╰──────────────────────────────────────────────────────────────╯
-```
+<table>
+<tr>
 
-> `$ sudo ./start_adventure.sh`
+<td width="25%" valign="top">
 
----
-
-## `⚔️ CHARACTER PROFILE`
+## `> SYSTEM INFO`
 
 ```text
-      ╭──────────────────────────────────────────────╮
-      │  ADITI // DEVELOPER PROFILE                  │
-      ├──────────────────────────────────────────────┤
-      │  🎓 M.Tech — AI & Data Science Engineering  │
-      │     IIT Patna · 2026 — 2028                  │
-      │                                               │
-      │  💼 HCLTech · Graduate Engineer Trainee      │
-      │     Jul 2024 — Jul 2025                      │
-      │                                               │
-      │  ☁️ Cloud / DevOps / Infrastructure          │
-      │  🛡️ Cybersecurity / DevSecOps                │
-      │  🤖 Machine Learning / AI                     │
-      │  🐍 Python Backend Development                │
-      ╰──────────────────────────────────────────────╯
+┌─────────────────────────┐
+│ NAME                    │
+│ Aditi Mishra            │
+├─────────────────────────┤
+│ ROLE                    │
+│ Cloud & DevOps Engineer │
+├─────────────────────────┤
+│ LOCATION                │
+│ India 🇮🇳                │
+├─────────────────────────┤
+│ STATUS                  │
+│ ● Open To Work          │
+├─────────────────────────┤
+│ FOCUS                   │
+│ Cloud • DevOps          │
+│ Cybersecurity • AI      │
+│ Research                │
+└─────────────────────────┘
 ```
 
----
+### `> CONNECT`
 
-## `💼 QUEST HISTORY`
+[![GitHub](https://img.shields.io/badge/GitHub-AditiMishra02-181717?style=for-the-badge\&logo=github)](https://github.com/AditiMishra02)
 
-### `01 // HCLTech — Graduate Engineer Trainee`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Mishra-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aditi-mishra-b362b3222/)
 
-**Jul 2024 — Jul 2025 · Bengaluru · On-site**
+</td>
 
-Worked on enterprise virtual desktop infrastructure in a secure banking environment.
+<td width="75%" valign="top">
+
+# `HELLO, I'M ADITI`
 
 ```text
-[+] VDI provisioning & user onboarding
-[+] Citrix XenServer / virtualization
-[+] Linux infrastructure
-[+] IAM / access management
-[+] MFA workflows
-[+] ServiceNow incident management
-[+] Application access & deployment support
-[+] Infrastructure troubleshooting
-[+] Enterprise security-compliant environment
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   CLOUD • DEVOPS • SECURITY • AI                    ║
+║                                                      ║
+║   I build cloud-based systems,                      ║
+║   automate deployments and explore                  ║
+║   cybersecurity & intelligent systems.              ║
+║                                                      ║
+║   Currently exploring:                              ║
+║   AWS • Docker • Terraform • CI/CD                  ║
+║   Kubernetes • Cybersecurity • AI/ML                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-**Tech:** `Citrix` `XenServer` `VDI` `Linux` `MFA` `IAM` `ServiceNow`
+### `> CURRENT MISSION`
 
----
+```bash
+$ ./mission.sh
 
-### `02 // DevOps Trainee — SOA`
+[+] Building scalable cloud solutions
+[+] Automating deployment pipelines
+[+] Strengthening cybersecurity skills
+[+] Exploring AI / Machine Learning
+[+] Exploring research opportunities
 
-**Jul 2023 — Aug 2023 · Bhubaneswar**
-
-Worked with cloud and container technologies while building and deploying applications.
-
-**Tech:** `AWS` `S3` `EC2` `VPC` `Docker` `Linux` `DevOps`
-
----
-
-## `☁️ TECH ARSENAL`
-
-### `CLOUD / DEVOPS`
-
-`AWS` `EC2` `S3` `IAM` `Azure` `Docker` `GitHub Actions` `CI/CD` `Git` `GitHub` `GHCR` `Terraform` `Linux` `Bash`
-
-### `CODE / BACKEND`
-
-`Python` `Flask` `Java` `SQL` `REST APIs` `JWT` `SQLite`
-
-### `AI / MACHINE LEARNING`
-
-`Pandas` `NumPy` `Scikit-learn` `Jupyter` `Anaconda` `Data Analysis` `Feature Engineering` `Classification` `Random Forest` `SVM` `Logistic Regression`
-
-### `SECURITY`
-
-`Cybersecurity` `Ethical Hacking` `TryHackMe` `DevSecOps` `Cloud Security` `IAM` `Authentication` `Authorization`
-
----
-
-## `🤖 ML // MALICIOUS URL DETECTION`
-
-### `ENHANCING MALICIOUS URL DETECTION USING MACHINE LEARNING`
-
-A practical **classical supervised ML** project combining machine learning and cybersecurity.
-
-```text
-DATASET
-10,000 URL samples
-        │
-        ▼
-EDA + PREPROCESSING
-        │
-        ▼
-FEATURE ENGINEERING
-URL / domain security behaviour
-        │
-        ▼
-ONE-HOT ENCODING
-        │
-        ▼
-STRATIFIED 80 / 20 SPLIT
-        │
-        ▼
-┌───────────────┬───────────────┬───────────────┐
-│ Random Forest │ Linear SVM    │ Logistic Reg. │
-└───────────────┴───────────────┴───────────────┘
-        │
-        ▼
-Accuracy • Precision • Recall • F1
+STATUS: ███████████████░░░ 78%
 ```
 
-### Models explored
+### `> PHILOSOPHY`
 
-| Model | Reported Test Accuracy |
-|---|---:|
-| 🌲 Random Forest | **99.15%** |
-| ⚡ Linear SVM | **99.4%** |
-| 📈 Logistic Regression | **97.9%** |
+> **「コードを書くことは、未来を書くこと。」**
+> *To write code is to write the future.*
 
-**ML concepts demonstrated:** data preprocessing, categorical encoding, feature engineering, supervised binary classification, stratified splitting, model comparison and evaluation.
+</td>
 
-🔗 **[View the ML project](https://github.com/AditiMishra02/ENHANCING-MALICIOUS-URL-DETECTION-USING-MACHINE-LEARNING-TECHNIQUES-AND-NOVEL-URL-BEHAVIOUR)**
+</tr>
+</table>
 
 ---
 
-## `🚀 PROJECT ARCHIVE`
+# `> TECH STACK`
 
-### `☁️ CLAMS`
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ☁️ CLOUD & DEVOPS
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 PROGRAMMING
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛡️ SECURITY & TOOLS
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square\&logo=servicenow\&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `> FEATURED PROJECTS`
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### ☁️ CLAMS
+
 **Cloud Log Aggregation & Monitoring System**
 
-`Flask` `AWS S3` `Docker` `GitHub Actions` `GHCR`
+`Python` `Flask` `AWS S3` `Docker` `GitHub Actions`
 
-Cloud-based log ingestion system with containerized backend, S3 storage and CI/CD.
+Cloud-based log ingestion and monitoring system with automated CI/CD.
 
----
+</td>
 
-### `☁️ Cludrive`
+<td width="25%" valign="top">
+
+### 🔐 CLUDRIVE
+
 **Secure Cloud File Storage Platform**
 
-`Flask` `AWS S3` `JWT` `Docker` `SQLite`
+`Flask` `AWS S3` `JWT` `SQLite` `Docker`
 
-Authenticated cloud file storage with upload/download workflows and S3 integration.
+Secure cloud storage platform with authentication, file upload/download and metadata management.
 
----
+</td>
 
-### `🚀 ProdDeploy`
+<td width="25%" valign="top">
+
+### 🚀 PRODDEPLOY
+
 **Production-Ready CI/CD Pipeline**
 
-`Python` `Flask` `Docker` `GitHub Actions` `AWS EC2`
+`Flask` `Docker` `GitHub Actions` `AWS EC2`
 
-Dockerized Python API with automated CI/CD and AWS deployment.
+Automated build and deployment pipeline for a Python API.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🛡️ DEVSECOPS THREAT MONITOR
+
+**Security Monitoring Dashboard**
+
+`Flask` `Docker` `JWT` `Chart.js`
+
+Security-focused monitoring dashboard built around DevSecOps concepts.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### `🛡️ DevSecOps Threat Monitor`
+# `> EXPERIENCE`
 
-`Flask` `JWT` `Docker` `Security`
+### `01` — Graduate Engineer Trainee
 
-Security-focused monitoring application exploring secure authentication and DevSecOps practices.
-
----
-
-## `🎯 CURRENT ARC`
+**HCL Technologies**
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                 CURRENT MISSION                    │
-├────────────────────────────────────────────────────┤
-│ [✓] Cloud fundamentals                             │
-│ [✓] AWS projects                                   │
-│ [✓] Docker & CI/CD                                 │
-│ [✓] Python backend                                 │
-│ [✓] Machine Learning project                       │
-│ [→] Ethical Hacking                                │
-│ [→] TryHackMe                                      │
-│ [→] AI / Machine Learning                          │
-│ [→] Kubernetes                                     │
-│ [→] Terraform                                      │
-│ [→] DevSecOps / Cloud Security                     │
-╰────────────────────────────────────────────────────╯
+Infrastructure • VDI • Enterprise IT • Cloud
+```
+
+Experience with enterprise infrastructure and VDI environments, including **Citrix XenServer, VDI provisioning, ServiceNow, user onboarding and secure enterprise systems**.
+
+---
+
+# `> RESEARCH INTERESTS`
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🧠 Artificial Intelligence                                │
+│  🤖 Machine Learning                                        │
+│  🛡️ Cybersecurity                                           │
+│  ☁️ Cloud Security                                          │
+│  🔎 Malicious URL Detection                                 │
+│  ⚙️ DevSecOps                                               │
+│  🔐 AI + Cybersecurity                                      │
+│  ☁️ AI + Cloud Computing                                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+### `> RESEARCH MODE`
+
+Interested in research at the intersection of:
+
+**AI × Cybersecurity × Cloud Computing**
+
+with a long-term interest in **advanced research and PhD opportunities**.
+
+---
+
+# `> LANGUAGES`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🇬🇧 English
+
+**Professional**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇮🇳 Hindi
+
+**Native**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇩🇪 German
+
+**Learning**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇯🇵 Japanese
+
+**Learning**
+
+</td>
+</tr>
+</table>
+
+---
+
+# `> CURRENTLY LEARNING`
+
+```text
+AWS & Cloud Architecture       ████████████████░░░░
+
+Cybersecurity                  ███████████████░░░░░
+
+DevSecOps                      ██████████████░░░░░░
+
+Kubernetes                     █████████████░░░░░░░
+
+AI / Machine Learning          ████████████░░░░░░░░
+
+Research & Academic Writing    ███████████░░░░░░░░░
 ```
 
 ---
 
-## `🌌 LEARNING LOG`
-
-### 🛡️ Cybersecurity
-
-Currently exploring:
-
-`Ethical Hacking` · `TryHackMe` · `Web Security` · `IAM` · `Cloud Security` · `DevSecOps`
-
-### 🤖 Artificial Intelligence
-
-Currently building knowledge around:
-
-`Machine Learning` · `Data Analysis` · `Supervised Learning` · `Feature Engineering` · `Model Evaluation`
-
----
-
-## `🌍 LANGUAGES`
-
-🇬🇧 **English** · 🇮🇳 **Hindi** · 🇯🇵 **Japanese** · 🇩🇪 **German**
-
----
-
-## `📊 GITHUB // SYSTEM STATS`
+# `> GITHUB STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=radical&hide_border=true&bg_color=0D0714&title_color=FF4FD8&icon_color=8B5CF6&text_color=EDE9FE" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=radical&hide_border=true&bg_color=0D0714&title_color=FF4FD8&text_color=EDE9FE" height="180">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiMishra02&theme=radical&hide_border=true&background=0D0221"/>
 
 </div>
 
 ---
 
-## `📡 CONTRIBUTION SIGNAL`
+# `> CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiMishra02&bg_color=0D0714&color=FF4FD8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiMishra02&theme=react-dark&hide_border=true&bg_color=0D0221"/>
 
 </div>
-
----
-
-## `🎴 SIDE QUESTS`
-
-```text
-📷 PHOTOGRAPHY
-✈️ TRAVEL
-🌍 LANGUAGES
-📚 LITERATURE
-✍️ WRITING
-🏺 ANCIENT CIVILIZATIONS
-```
-
----
-
-## `🔗 CONNECT`
-
-**GitHub:** [AditiMishra02](https://github.com/AditiMishra02)
-
-**LinkedIn:** [Aditi Mishra](https://www.linkedin.com/in/aditi-mishra-b362b3222/)
 
 ---
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────┐
-│                                          │
-│       BUILD • LEARN • SECURE • REPEAT    │
-│                                          │
-│  「コードを書くことは、未来を書くこと。」 │
-│                                          │
-│       To write code is to write          │
-│              the future.                 │
-│                                          │
-└──────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│       YOU HAVE ENTERED ADITI'S SYSTEM       │
+│                                              │
+│          BUILD • LEARN • RESEARCH            │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-### `SYSTEM STATUS : ONLINE // KEEP BUILDING ⚡`
+<img src="https://komarev.com/ghpvc/?username=AditiMishra02&label=PROFILE%20VISITORS&color=ff1493&style=for-the-badge"/>
+
+### `未来を作る。`
+
+**Build the future.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:5c0a73,100:120018&height=120&section=footer"/>
+
+      
+
+
+
+
+
