@@ -1,625 +1,427 @@
 <div align="center">
 
-<img src="./assets/hero.jpeg" width="100%" alt="Aditi Mishra Cyberpunk Banner">
+<img src="assets/banner.png" width="100%" alt="Aditi Mishra Cyberpunk Banner">
 
-<br>
-
-### `> initializing_profile.exe`
-
-# HELLO, I'M ADITI
-
-### `// Cloud & DevOps Engineer • Cybersecurity • AI/ML • Research`
-
-`CLOUD & DEVOPS`   `CYBERSECURITY`   `AI / ML`   `RESEARCH`
-
-```text
-$ while(alive) { code(); learn(); build(); inspire(); }
-```
+> initializing_profile.exe
 
 </div>
-
----
 
 <table width="100%">
 <tr>
 
-<td width="25%" valign="top">
+<td width="22%" valign="top" align="center">
 
-<div align="center">
+<img src="assets/avatar.jpg" width="120" alt="Aditi Mishra">
 
-<img src="./assets/avatar.png" width="180" alt="Aditi Mishra">
+AditiMishra02
 
-### `AditiMishra02`
+@AditiMishra02
 
-`@AditiMishra02`
+未来を作る。
 
-`未来を作る。`
+Build • Learn • Research
 
-**Build • Learn • Research**
-
-</div>
-
----
-
-### `> SYSTEM INFO`
-
-```text
-NAME
-Aditi Mishra
-
-ROLE
-Cloud & DevOps Engineer
+> SYSTEM INFO
 
 LOCATION
+
 India 🇮🇳
 
 STATUS
-● Open To Work
 
-FOCUS
-Cloud • DevOps
-Cybersecurity
-AI / ML
-Research
-```
+🟢 Open To Work
 
----
+ROLE
 
-### `> CONNECT`
+Cloud & DevOps Engineer
 
-<div align="center">
+> CONNECT
 
-</div>
-
----
-
-### `> PROFILE`
-
-```text
-BUILD
-LEARN
-RESEARCH
-REPEAT
-```
-
-</td>
-
-<td width="75%" valign="top">
-
-# `> HELLO, I'M ADITI`
-
-<table width="100%">
-<tr>
-
-<td width="58%" valign="top">
-
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║  CLOUD • DEVOPS • SECURITY • AI      ║
-║                                      ║
-║  I build cloud-based systems,        ║
-║  automate deployment workflows,      ║
-║  and explore secure intelligent      ║
-║  systems.                            ║
-║                                      ║
-║  Currently exploring:                ║
-║                                      ║
-║  AWS • Docker • Terraform • CI/CD    ║
-║  Kubernetes • Cybersecurity • AI/ML  ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-
-<td width="42%" valign="top">
-
-### `> CURRENT MISSION`
-
-```text
-[+] Cloud solutions
-[+] Deployment automation
-[+] Cybersecurity
-[+] AI / Machine Learning
-[+] Research
-
-STATUS
-
-███████████████░░░░░
-78%
-```
-
-<img src="./assets/mission.jpg" width="100%" alt="Current Mission">
-
-</td>
-
-</tr>
-</table>
-
-### `> PHILOSOPHY`
-
-> **「コードを書くことは、未来を書くこと。」**
-> *To write code is to write the future.*
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `> TECH STACK`
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-## ☁️ CLOUD & DEVOPS
-
-**AWS**
-
-`██████████████████░░` **90%**
-
-**Docker**
-
-`██████████████████░░` **90%**
-
-**Linux**
-
-`█████████████████░░░` **85%**
-
-**Terraform**
-
-`████████████████░░░░` **80%**
-
-**GitHub Actions / CI-CD**
-
-`█████████████████░░░` **85%**
-
-</td>
-
-<td width="33%" valign="top">
-
-## 💻 LANGUAGES
-
-**Python**
-
-`██████████████████░░` **90%**
-
-**Bash**
-
-`████████████████░░░░` **80%**
-
-**SQL**
-
-`██████████████░░░░░░` **70%**
-
-**Java**
-
-`████████████░░░░░░░░` **60%**
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🛡️ TOOLS & SECURITY
-
-**Kubernetes**
-
-`███████████████░░░░░` **75%**
-
-**Postman**
-
-`███████████████░░░░░` **75%**
-
-**VS Code**
-
-`██████████████████░░` **90%**
-
-**JWT / APIs**
-
-`████████████████░░░░` **80%**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `> FEATURED PROJECTS`
-
-<table width="100%">
-<tr>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### ☁️ CLAMS
-
-**Cloud Log Aggregation**
-**& Monitoring System**
-
-</div>
-
----
-
-**STACK**
-
-`Python` `Flask`
-
-`AWS S3` `Docker`
-
-`GitHub Actions`
-
----
-
-**DESCRIPTION**
-
-Cloud-based log ingestion and monitoring system with automated CI/CD.
-
-<br>
-
-**TYPE**
-
-`CLOUD • DEVOPS`
-
-</td>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🔐 CLUDRIVE
-
-**Secure Cloud File**
-**Storage Platform**
-
-</div>
-
----
-
-**STACK**
-
-`Flask` `AWS S3`
-
-`JWT` `SQLite`
-
-`Docker`
-
----
-
-**DESCRIPTION**
-
-Secure cloud storage platform with authentication, file upload/download and metadata management.
-
-<br>
-
-**TYPE**
-
-`CLOUD • SECURITY`
-
-</td>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🚀 PRODDEPLOY
-
-**Production-Ready**
-**CI/CD Pipeline**
-
-</div>
-
----
-
-**STACK**
-
-`Flask` `Docker`
-
-`GitHub Actions`
-
-`AWS EC2` `Nginx`
-
----
-
-**DESCRIPTION**
-
-Automated build and deployment pipeline for a Python API.
-
-<br>
-
-**TYPE**
-
-`DEVOPS • CI/CD`
-
-</td>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🛡️ THREAT MONITOR
-
-**DevSecOps Threat**
-**Monitoring Dashboard**
-
-</div>
-
----
-
-**STACK**
-
-`Flask` `Docker`
-
-`JWT` `Chart.js`
-
-`DevSecOps`
-
----
-
-**DESCRIPTION**
-
-Security-focused monitoring dashboard built around DevSecOps concepts.
-
-<br>
-
-**TYPE**
-
-`SECURITY • DEVSECOPS`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `> EXPERIENCE`
-
-<table width="100%">
-<tr>
-
-<td width="12%" valign="top">
-
-### `01`
-
-</td>
-
-<td width="88%" valign="top">
-
-### Graduate Engineer Trainee
-
-**HCL Technologies**
-
-`Infrastructure` • `VDI` • `Enterprise IT` • `Cloud`
-
-Experience with enterprise infrastructure and VDI environments, including **Citrix XenServer, VDI provisioning, ServiceNow, user onboarding and secure enterprise systems.**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `> RESEARCH INTERESTS`
-
-<table width="100%">
-<tr>
-
-<td width="55%" valign="top">
-
-```text
-╔══════════════════════════════════════╗
-║  🧠 Artificial Intelligence         ║
-║  🤖 Machine Learning                ║
-║  🛡️ Cybersecurity                   ║
-║  ☁️ Cloud Security                  ║
-║  🔎 Malicious URL Detection         ║
-║  ⚙️ DevSecOps                       ║
-║  🔐 AI + Cybersecurity              ║
-║  ☁️ AI + Cloud Computing            ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-
-<td width="45%" valign="middle">
-
-### `> RESEARCH MODE`
-
-Interested in the intersection of:
-
-# `AI × CYBERSECURITY × CLOUD`
-
-Long-term interests:
-
-`Advanced Research`
-
-`Research Engineering`
-
-`PhD Opportunities`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `> LANGUAGES`
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-### 🇬🇧 GB
-
-## English
-
-</td>
-
-<td align="center" width="25%">
-
-### 🇮🇳 IN
-
-## Hindi
-
-</td>
-
-<td align="center" width="25%">
-
-### 🇩🇪 DE
-
-## German
-
-</td>
-
-<td align="center" width="25%">
-
-### 🇯🇵 JP
-
-## Japanese
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `> CURRENTLY LEARNING`
-
-<table width="100%">
-
-<tr>
-<td width="35%">
-
-**AWS & Cloud Architecture**
-
-</td>
-<td>
-
-`████████████████░░░░` **80%**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**Cybersecurity**
-
-</td>
-<td>
-
-`███████████████░░░░░` **75%**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**DevSecOps**
-
-</td>
-<td>
-
-`██████████████░░░░░░` **70%**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**Kubernetes**
-
-</td>
-<td>
-
-`█████████████░░░░░░░` **65%**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**AI / Machine Learning**
-
-</td>
-<td>
-
-`████████████░░░░░░░░` **60%**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**Research & Academic Writing**
-
-</td>
-<td>
-
-`███████████░░░░░░░░░` **55%**
-
-</td>
-</tr>
-
-</table>
-
----
-
-# `> GITHUB STATS`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AditiMishra02&show_icons=true&hide_border=true&theme=radical&bg_color=0D0221&title_color=FF4FD8&icon_color=00D9FF&text_color=FFFFFF">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&hide_border=true&theme=radical&bg_color=0D0221&title_color=FF4FD8&text_color=FFFFFF">
-
-</div>
-
----
-
-# `> CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiMishra02&bg_color=0D0221&color=00D9FF&line=FF4FD8&point=FFFFFF&area=true&hide_border=true&custom_title=Aditi%20Mishra's%20Contribution%20Graph" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       YOU HAVE ENTERED ADITI'S SYSTEM        ║
-║                                              ║
-║            BUILD • LEARN • RESEARCH          ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=AditiMishra02&label=PROFILE%20VISITORS&color=ff1493&style=for-the-badge">
+<a href="https://github.com/AditiMishra02">
+<img src="https://img.shields.io/badge/GitHub-AditiMishra02-181717?style=for-the-badge&logo=github&logoColor=white" width="150" alt="GitHub">
+</a>
 
 <br><br>
 
-### `未来を作る。`
+<a href="https://www.linkedin.com/in/aditi-mishra/">
+<img src="https://img.shields.io/badge/LinkedIn-Aditi%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" alt="LinkedIn">
+</a>
 
-**BUILD THE FUTURE.**
+> LANGUAGES
+
+🇬🇧 English
+Professional
+
+🇮🇳 Hindi
+Native
+
+🇩🇪 German
+Learning
+
+🇯🇵 Japanese
+Learning
+
+</td>
+
+<td width="78%" valign="top">
+
+> PHILOSOPHY
+
+「コードを書くことは、未来を書くこと。」
+To write code is to write the future.
+
+SYSTEM STATUS
+────────────────────────
+BUILD       ✓
+LEARN       ✓
+RESEARCH    ✓
+REPEAT      ✓
+
+> ABOUT
+
+I build cloud-based systems, automate deployment workflows,
+and explore secure intelligent systems.
+
+My current focus combines:
+
+Cloud • DevOps • Cybersecurity • AI / ML
+
+with an interest in research and advanced computing.
+
+</td>
+
+</tr>
+</table>
+
+> TECH STACK
+
+<table width="100%">
+<tr>
+
+<td width="25%" valign="top">
+
+☁️ CLOUD & DEVOPS
+
+AWS
+
+EC2 S3 IAM
+
+Containers
+
+Docker
+
+CI/CD
+
+GitHub Actions
+
+Systems
+
+Linux Bash
+
+Version Control
+
+Git GitHub
+
+</td>
+
+<td width="25%" valign="top">
+
+💻 PROGRAMMING
+
+Language
+
+Python
+
+Backend
+
+Flask
+
+APIs
+
+REST APIs
+
+Authentication
+
+JWT
+
+Database / Data
+
+SQL Pandas
+
+</td>
+
+<td width="25%" valign="top">
+
+🛡️ INFRASTRUCTURE
+
+Virtualization
+
+Citrix XenServer
+VDI
+
+Operations
+
+ServiceNow
+
+Access
+
+MFA
+Access Management
+
+Infrastructure
+
+Enterprise IT
+Linux
+
+</td>
+
+<td width="25%" valign="top">
+
+🤖 MACHINE LEARNING
+
+Libraries
+
+scikit-learn
+Pandas
+NumPy
+
+Algorithms
+
+Random Forest
+SVM
+Logistic Regression
+
+ML
+
+Feature Engineering
+Model Evaluation
+Cross-Validation
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,docker,aws,linux,bash,git,githubactions" height="40" alt="Technology icons">
+
+</div>
+
+> FEATURED PROJECTS
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+☁️ CLAMS
+
+Cloud Log Aggregation & Monitoring System
+
+Cloud-based log ingestion and monitoring system with automated CI/CD.
+
+Python Flask AWS S3
+Docker GitHub Actions
+
+→ View Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+🔒 CLUDRIVE
+
+Secure Cloud File Storage Platform
+
+Secure cloud storage platform with authentication, file operations and metadata management.
+
+Flask AWS S3 JWT
+SQLite Docker
+
+→ View Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🚀 PRODDEPLOY
+
+Production-Ready CI/CD Pipeline
+
+Automated build and deployment pipeline for a Python API.
+
+Flask Docker
+GitHub Actions AWS EC2 Linux
+
+→ View Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+🛡️ THREAT MONITOR
+
+DevSecOps Threat Monitoring Dashboard
+
+Security-focused monitoring dashboard built around DevSecOps concepts.
+
+Flask Docker JWT
+Chart.js DevSecOps
+
+→ View Repository
+
+</td>
+
+</tr>
+</table>
+
+> RESEARCH INTERESTS
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+🧠 Artificial Intelligence
+
+🤖 Machine Learning
+
+🛡️ Cybersecurity
+
+☁️ Cloud Security
+
+🔎 Malicious URL Detection
+
+</td>
+
+<td width="50%" valign="top">
+
+⚙️ DevSecOps
+
+🔐 AI + Cybersecurity
+
+☁️ AI + Cloud Computing
+
+🔬 Research Engineering
+
+💻 Advanced Computing
+
+</td>
+
+</tr>
+</table>
+
+> RESEARCH DIRECTION
+
+AI × CYBERSECURITY × CLOUD
+
+Exploring research engineering, advanced computing, AI security,
+and long-term PhD opportunities.
+
+> EXPERIENCE
+
+01 — Graduate Engineer Trainee
+
+HCL Technologies
+
+Infrastructure VDI Enterprise IT Cloud
+
+Supported Deutsche Bank's Secure Desktop On Demand (SDOD) platform within a Citrix-based virtualized infrastructure environment.
+
+Managed VDI provisioning, user onboarding, access management, and MFA workflows.
+
+Performed VDI reallocations across global regions to improve connectivity and resource utilization.
+
+Troubleshot infrastructure, application availability, and deployment issues within virtual desktop environments.
+
+Managed incidents and service restoration through ServiceNow while collaborating with infrastructure teams.
+
+Supported Citrix XenServer and Linux environments while following security and access-control standards.
+
+Technologies
+
+Citrix XenServer VDI ServiceNow
+Linux MFA Access Management
+
+> CURRENTLY LEARNING
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+☁️ AWS & Cloud Architecture
+
+████████░░ 80%
+
+🛡️ Cybersecurity
+
+███████▌░░ 75%
+
+⚙️ DevSecOps
+
+███████░░░ 70%
+
+</td>
+
+<td width="50%" valign="top">
+
+☸️ Kubernetes
+
+██████▌░░░ 65%
+
+🤖 AI / Machine Learning
+
+██████░░░░ 60%
+
+✍️ Research & Academic Writing
+
+█████▌░░░░ 55%
+
+</td>
+
+</tr>
+</table>
+
+> GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=AditiMishra02&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AditiMishra02&layout=compact&theme=radical&hide_border=true" width="400" alt="Top Languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AditiMishra02&theme=radical&hide_border=true" width="400" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiMishra02&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph">
+
+</div>
+
+<div align="center">
+
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       YOU HAVE ENTERED ADITI'S SYSTEM       ║
+║                                              ║
+║          BUILD • LEARN • RESEARCH           ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+<img src="https://komarev.com/ghpvc/?username=AditiMishra02&color=e91e8c&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
+
+未来を作る。
+
+BUILD THE FUTURE.
 
 </div>
