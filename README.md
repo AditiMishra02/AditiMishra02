@@ -40,8 +40,11 @@ Cloud & DevOps Engineer
 > LANGUAGES
 
 🇬🇧 English
+
 🇮🇳 Hindi
+
 🇩🇪 German
+
 🇯🇵 Japanese
 
 </td>
@@ -55,33 +58,30 @@ To write code is to write the future.
 
 > ABOUT
 
-I build cloud-based systems, automate deployment workflows,
-and explore secure intelligent systems.
+I’m currently pursuing an **M.Tech in Artificial Intelligence & Data Science at IIT Patna** and developing my skills as a **Developer**. My interests span **Software Development, AI/ML, Cloud Computing, DevOps, and Cybersecurity**.
 
-My current focus : Cloud • DevOps • Cybersecurity • AI / ML
+I enjoy building practical and secure solutions, from **backend APIs and cloud deployments to ML projects and automation**, while exploring the intersection of **AI × Cybersecurity × Cloud Computing** and growing toward research in advanced computing.
 
 
 > EXPERIENCE
 
- Graduate Engineer Trainee
+*Graduate Engineer Trainee - HCLTech*
 
-HCLTech
+*Domain - Infrastructure VDI Enterprise IT Cloud*
 
-Infrastructure VDI Enterprise IT Cloud
+- Supported Deutsche Bank's Secure Desktop On Demand (SDOD) platform within a Citrix-based virtualized infrastructure environment.
 
-Supported Deutsche Bank's Secure Desktop On Demand (SDOD) platform within a Citrix-based virtualized infrastructure environment.
+- Managed VDI provisioning, user onboarding, access management, and MFA workflows.
 
-Managed VDI provisioning, user onboarding, access management, and MFA workflows.
+- Performed VDI reallocations across global regions to improve connectivity and resource utilization.
 
-Performed VDI reallocations across global regions to improve connectivity and resource utilization.
+- Troubleshot infrastructure, application availability, and deployment issues within virtual desktop environments.
 
-Troubleshot infrastructure, application availability, and deployment issues within virtual desktop environments.
+- Managed incidents and service restoration through ServiceNow while collaborating with infrastructure teams.
 
-Managed incidents and service restoration through ServiceNow while collaborating with infrastructure teams.
+- Supported Citrix XenServer and Linux environments while following security and access-control standards.
 
-Supported Citrix XenServer and Linux environments while following security and access-control standards.
-
-Technologies : Citrix XenServer,VDI, ServiceNow,Linux,MFA, Access Management
+- Technologies : Citrix XenServer,VDI, ServiceNow,Linux,MFA, Access Management
 
 
 </td>
@@ -89,120 +89,108 @@ Technologies : Citrix XenServer,VDI, ServiceNow,Linux,MFA, Access Management
 </tr>
 </table>
 
-> TECH STACK
+## > TECH STACK
 
 <table width="100%">
 <tr>
 
 <td width="25%" valign="top">
 
-☁️ CLOUD & DEVOPS
+### ☁️ CLOUD & DEVOPS
 
-AWS
+**AWS**
+<br>EC2 • S3 • IAM
 
-EC2 S3 IAM
+**Containers**
+<br>Docker
 
-Containers
+**CI/CD**
+<br>GitHub Actions
 
-Docker
+**Systems**
+<br>Linux • Bash
 
-CI/CD
-
-GitHub Actions
-
-Systems
-
-Linux Bash
-
-Version Control
-
-Git GitHub
+**Version Control**
+<br>Git • GitHub
 
 </td>
 
 <td width="25%" valign="top">
 
-💻 PROGRAMMING
+### 💻 PROGRAMMING
 
-Language
+**Language**
+<br>Python
 
-Python
+**Backend**
+<br>Flask
 
-Backend
+**APIs**
+<br>REST APIs
 
-Flask
+**Authentication**
+<br>JWT
 
-APIs
-
-REST APIs
-
-Authentication
-
-JWT
-
-Database / Data
-
-SQL Pandas
+**Development**
+<br>Backend Development
 
 </td>
 
 <td width="25%" valign="top">
 
-🛡️ INFRASTRUCTURE
+### 🛡️ INFRASTRUCTURE
 
-Virtualization
+**Virtualization**
+<br>Citrix XenServer • VDI
 
-Citrix XenServer
-VDI
+**Infrastructure**
+<br>Enterprise IT
 
-Operations
+**Access**
+<br>Access Management
 
-ServiceNow
+**Operations**
+<br>ServiceNow
 
-Access
-
-MFA
-Access Management
-
-Infrastructure
-
-Enterprise IT
-Linux
+**Security**
+<br>MFA • Role-Based Access
 
 </td>
 
 <td width="25%" valign="top">
 
-🤖 MACHINE LEARNING
+### 🤖 MACHINE LEARNING
 
-Libraries
+**Language**
+<br>Python
 
-scikit-learn
-Pandas
-NumPy
+**Libraries**
+<br>scikit-learn
+<br>Pandas • NumPy
 
-Algorithms
+**Algorithms**
+<br>Random Forest
+<br>SVM
+<br>Logistic Regression
 
-Random Forest
-SVM
-Logistic Regression
-
-ML
-
-Feature Engineering
-Model Evaluation
-Cross-Validation
+**Concepts**
+<br>Feature Engineering
+<br>Model Evaluation
+<br>Cross-Validation
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,docker,aws,linux,bash,git,githubactions" height="40" alt="Technology icons">
+<img src="https://skillicons.dev/icons?i=python,flask,docker,aws,linux,bash,git,githubactions" height="40" />
 
 </div>
+
 
 > FEATURED PROJECTS
 
@@ -345,10 +333,6 @@ Chart.js DevSecOps
 
 ██████░░░░ 60%
 
-✍️ Research & Academic Writing
-
-█████▌░░░░ 55%
-
 </td>
 
 </tr>
@@ -368,21 +352,10 @@ Chart.js DevSecOps
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=AditiMishra02&theme=radical&hide_border=true" width="400" alt="GitHub Streak">
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiMishra02&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph">
-
 </div>
 
 <div align="center">
 
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       YOU HAVE ENTERED ADITI'S SYSTEM       ║
-║                                              ║
-║          BUILD • LEARN • RESEARCH           ║
-║                                              ║
-╚══════════════════════════════════════════════╝
 
 <img src="https://komarev.com/ghpvc/?username=AditiMishra02&color=e91e8c&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
