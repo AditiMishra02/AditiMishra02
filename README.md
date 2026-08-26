@@ -15,23 +15,15 @@
 
 AditiMishra02
 
-@AditiMishra02
-
 未来を作る。
 
 Build • Learn • Research
 
-> SYSTEM INFO
-
-LOCATION
+> SYSTEM LOCATION
 
 India 🇮🇳
 
-STATUS
-
-🟢 Open To Work
-
-ROLE
+> ROLE
 
 Cloud & DevOps Engineer
 
@@ -40,9 +32,7 @@ Cloud & DevOps Engineer
 <a href="https://github.com/AditiMishra02">
 <img src="https://img.shields.io/badge/GitHub-AditiMishra02-181717?style=for-the-badge&logo=github&logoColor=white" width="150" alt="GitHub">
 </a>
-
 <br><br>
-
 <a href="https://www.linkedin.com/in/aditi-mishra/">
 <img src="https://img.shields.io/badge/LinkedIn-Aditi%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" alt="LinkedIn">
 </a>
@@ -50,16 +40,9 @@ Cloud & DevOps Engineer
 > LANGUAGES
 
 🇬🇧 English
-Professional
-
 🇮🇳 Hindi
-Native
-
 🇩🇪 German
-Learning
-
 🇯🇵 Japanese
-Learning
 
 </td>
 
@@ -70,23 +53,36 @@ Learning
 「コードを書くことは、未来を書くこと。」
 To write code is to write the future.
 
-SYSTEM STATUS
-────────────────────────
-BUILD       ✓
-LEARN       ✓
-RESEARCH    ✓
-REPEAT      ✓
-
 > ABOUT
 
 I build cloud-based systems, automate deployment workflows,
 and explore secure intelligent systems.
 
-My current focus combines:
+My current focus : Cloud • DevOps • Cybersecurity • AI / ML
 
-Cloud • DevOps • Cybersecurity • AI / ML
 
-with an interest in research and advanced computing.
+> EXPERIENCE
+
+ Graduate Engineer Trainee
+
+HCLTech
+
+Infrastructure VDI Enterprise IT Cloud
+
+Supported Deutsche Bank's Secure Desktop On Demand (SDOD) platform within a Citrix-based virtualized infrastructure environment.
+
+Managed VDI provisioning, user onboarding, access management, and MFA workflows.
+
+Performed VDI reallocations across global regions to improve connectivity and resource utilization.
+
+Troubleshot infrastructure, application availability, and deployment issues within virtual desktop environments.
+
+Managed incidents and service restoration through ServiceNow while collaborating with infrastructure teams.
+
+Supported Citrix XenServer and Linux environments while following security and access-control standards.
+
+Technologies : Citrix XenServer,VDI, ServiceNow,Linux,MFA, Access Management
+
 
 </td>
 
@@ -316,37 +312,7 @@ Chart.js DevSecOps
 </tr>
 </table>
 
-> RESEARCH DIRECTION
 
-AI × CYBERSECURITY × CLOUD
-
-Exploring research engineering, advanced computing, AI security,
-and long-term PhD opportunities.
-
-> EXPERIENCE
-
-01 — Graduate Engineer Trainee
-
-HCL Technologies
-
-Infrastructure VDI Enterprise IT Cloud
-
-Supported Deutsche Bank's Secure Desktop On Demand (SDOD) platform within a Citrix-based virtualized infrastructure environment.
-
-Managed VDI provisioning, user onboarding, access management, and MFA workflows.
-
-Performed VDI reallocations across global regions to improve connectivity and resource utilization.
-
-Troubleshot infrastructure, application availability, and deployment issues within virtual desktop environments.
-
-Managed incidents and service restoration through ServiceNow while collaborating with infrastructure teams.
-
-Supported Citrix XenServer and Linux environments while following security and access-control standards.
-
-Technologies
-
-Citrix XenServer VDI ServiceNow
-Linux MFA Access Management
 
 > CURRENTLY LEARNING
 
