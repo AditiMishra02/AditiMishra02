@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Aditi Mishra Cyberpunk Banner">
+<img src="assets/background.png" width="100%" alt="Aditi Mishra Cyberpunk Banner">
 
 > initializing_profile.exe
 
