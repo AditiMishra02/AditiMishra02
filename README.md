@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.jpg" width="100%" alt="Aditi Mishra Cyberpunk Banner">
+<img src="./assets/hero.jpeg" width="100%" alt="Aditi Mishra Cyberpunk Banner">
 
 <br>
 
@@ -130,7 +130,7 @@ STATUS
 78%
 ```
 
-<img src="./assets/mission.png" width="100%" alt="Current Mission">
+<img src="./assets/mission.jpg" width="100%" alt="Current Mission">
 
 </td>
 
